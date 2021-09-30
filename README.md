@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1>E-commerce Product Card :camera:</h1>
 
 <h2>A product card created using only HTML and CSS.</h2>
@@ -11,3 +12,7 @@
 ### Screenshot
 
 <img src="screenshot/product.png" width="400">
+=======
+<h1>Ecommerce Product Card</h1>
+<h2>A product card created using HTML and CSS only.</h2>
+>>>>>>> 37d215e583437d66fbc510b29171b3d37f443a69
